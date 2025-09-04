@@ -1,18 +1,18 @@
-# Backend API (Django REST Framework + JWT + PostgreSQL)
+## Backend API (Django REST Framework + JWT + PostgreSQL)
 
 A simple Django REST Framework project with **Signup, Login, and Hello World (protected endpoint)** using JWT authentication.  
 Database used: **PostgreSQL**  
 
 ---
 
-## Features
+### Features
 - User registration (signup) with extra fields
 - User login with JWT authentication
 - Protected endpoint (`/hello/`) accessible only with valid token
 - PostgreSQL as database
 - Custom User model (email-based authentication)
 
-## End Point
+### End Point
 
 | Endpoint       | Method | Auth Required | Description                                             | Request Body (JSON)                                                                                                                                                                 | Response (JSON)                                                                                                                                                                                 |
 | -------------- | ------ | ------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
