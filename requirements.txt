@@ -1,0 +1,14 @@
+asgiref
+cffi
+cryptography
+Django
+djangorestframework
+djangorestframework_simplejwt
+psycopg
+psycopg-binary
+psycopg-pool
+pycparser
+PyJWT
+python-dotenv
+sqlparse
+typing_extensions

@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pyc
+
+# Virtual environment
+.venv/
+.env/
+venv/
+env/
+*.env
+
+# Django stuff
+*.log
+*.pot
+db.sqlite3
+*.sqlite*
+media/
+staticfiles/
+static/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage / Testing
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.pytest_cache/
+test-reports/
+
